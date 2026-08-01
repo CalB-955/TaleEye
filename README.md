@@ -2,7 +2,17 @@
 TaleEye is a story analysis application created for the IBM Bob AI Builder's Challenge.
 
 ---
-
+PROBLEM STATEMENT:
+      + Writers and all narrative creators commonly run into problems with continuity in stories. Especially in series or spinoffs, leaving their audiences dissatisfied.
+SOLUTION:
+      + The solution? TaleEye, a story analysis engine that breaks down the scripts and storyboards into a clean, digestible format. It bridges the gap in between different writers shaping stories, and in same story being shaped.
+AI APPROACH AND ARCHITECTURE:
+      + IBM Bob was used to create the frontend and backend as an web app.
+SELECTED CHALLENGE THEME:
+      + July Challenge - Reimagine Creative Industries with AI
+HOW IBM BOB WAS USED:
+      + IBM Bob was used to develop the frontend and backend of TaleEye.
+---
 ## Project Structure
 
 ```
